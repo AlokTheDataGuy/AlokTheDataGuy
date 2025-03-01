@@ -3,14 +3,13 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 
 ## 🚀 Skills & Technologies
 
-### **💻 Web Development:**  
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- Tailwind CSS, MySQL, CSS, JavaScript, Flask, Django, Streamlit
-
 ### **📚 Libraries & Tools:**  
 - NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, Hugging Face, PyTorch, Flask  
 - PowerBI, Tableau, LaTeX, Git, VS Code, Postman, Docker, Vercel, Render, Canva  
-- State Management with Redux, RESTful APIs, Cloud Deployment, SEO Optimization  
+
+### **💻 Web Development:**  
+- MERN Stack (MongoDB, Express.js, React.js, Node.js)  
+- Tailwind CSS, MySQL, CSS, JavaScript, Flask, Django, Streamlit
 
 ### **🧠 Programming Languages:**  
 - **Proficient:** JavaScript, Python  

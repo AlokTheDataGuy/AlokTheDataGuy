@@ -1,22 +1,15 @@
 # 💫 About Me:
-Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Learning, NLP, and Web Development**. I love integrating AI/ML features into web applications and solving real-world challenges using data-driven solutions.
+Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Learning, NLP, Computer Vision and Web Development**. I love integrating AI/ML features into web applications and solving real-world challenges using data-driven solutions.
 
 ## 🚀 Skills & Technologies
 
 ### **💻 Web Development:**  
 - MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- Tailwind CSS, MySQL, CSS, JavaScript  
-- Flask, Django  
+- Tailwind CSS, MySQL, CSS, JavaScript, Flask, Django, Streamlit
 
 ### **🧠 Programming Languages:**  
 - **Proficient:** JavaScript, Python  
 - **Familiar:** C++, Java, Dart  
-
-### **🗣️ Natural Language Processing:**  
-- Text Classification, Sentiment Analysis, Named Entity Recognition  
-
-### **🖼️ Computer Vision:**  
-- Object Detection, Face Recognition, Image Segmentation  
 
 ### **📚 Libraries & Tools:**  
 - NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, Hugging Face, PyTorch, Flask  

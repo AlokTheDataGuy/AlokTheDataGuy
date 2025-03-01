@@ -93,14 +93,6 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 
 ---
 
-## 🎓 Education
-- **Master of Computer Applications in Data Science (2023-25)**  
-  Dev Sanskriti Vishwavidyalaya  
-- **Bachelor of Computer Applications (2018-22)**  
-  Gaya College, Magadh University  
-
----
-
 ## 📜 Certifications
 - **Complete Data Science, Machine Learning, DL, NLP Bootcamp (Feb. 2025) - Udemy**  
 - **The Web Developer Bootcamp (Feb. 2023) - Udemy**  

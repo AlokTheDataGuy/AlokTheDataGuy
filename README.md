@@ -1,19 +1,35 @@
 # 💫 About Me:
 Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Learning, NLP, Computer Vision and Web Development**. I love integrating AI/ML features into web applications and solving real-world challenges using data-driven solutions.
 
-## 🚀 Skills & Technologies
+## 🚀 Skills & Expertise  
 
-### **📚 Libraries & Tools:**  
-- NumPy, Pandas, Scikit-learn, TensorFlow, Keras, OpenCV, Hugging Face, PyTorch, Flask  
-- PowerBI, Tableau, LaTeX, Git, VS Code, Postman, Docker, Vercel, Render, Canva  
+### **📊 Data Science & Machine Learning**  
+✅ Data Preprocessing, Feature Engineering, Model Building  
+✅ Supervised & Unsupervised Learning (Regression, Classification, Clustering)  
+✅ Deep Learning (ANN, CNN, RNN, Transformers)  
+✅ Natural Language Processing (NLP), Computer Vision  
+✅ Recommendation Systems (Collaborative & Content-Based Filtering)  
 
-### **💻 Web Development:**  
-- MERN Stack (MongoDB, Express.js, React.js, Node.js)  
-- Tailwind CSS, MySQL, CSS, JavaScript, Flask, Django, Streamlit
+### **🛠️ AI & ML Tools & Frameworks**  
+✅ **ML/DL:** Scikit-learn, TensorFlow, Keras, PyTorch  
+✅ **NLP:** Hugging Face Transformers, NLTK, SpaCy  
+✅ **Computer Vision:** OpenCV, YOLO, Mediapipe, FaceNet, ResNet
+✅ **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
 
-### **🧠 Programming Languages:**  
-- **Proficient:** JavaScript, Python  
-- **Familiar:** C++, Java, Dart  
+### **🌐 Web Development & Backend**  
+✅ **Frontend:** React.js, Redux, Tailwind CSS, Streamlit
+✅ **Backend:** Node.js, Express.js, Flask, Django   
+✅ **Database:** MySQL, MongoDB, Firebase, PostgreSQL  
+✅ **API Development:** RESTful APIs, Postman  
+
+### **⚙️ DevOps & Deployment**  
+✅ Docker, Kubernetes, Vercel, Render, GitHub Actions  
+✅ CI/CD, Cloud Deployment (AWS, Firebase)  
+
+### **🔤 Programming Languages**  
+✅ **Proficient:** Python, JavaScript  
+✅ **Familiar:** C++, Java, Dart  
+
 
 ---
 ## 💻 Tech Stack:

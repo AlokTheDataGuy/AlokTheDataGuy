@@ -9,16 +9,19 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 ✅ Deep Learning (ANN, CNN, RNN, Transformers)  
 ✅ Natural Language Processing (NLP), Computer Vision  
 ✅ Recommendation Systems (Collaborative & Content-Based Filtering)  
+✅ AI Chatbots (Multi-Agent Systems, RAG, LLMs)
 
 ### **🛠️ AI & ML Tools & Frameworks**  
 ✅ **ML/DL:** Scikit-learn, TensorFlow, Keras, PyTorch  
 ✅ **NLP:** Hugging Face Transformers, NLTK, SpaCy  
 ✅ **Computer Vision:** OpenCV, YOLO, Mediapipe, FaceNet, ResNet
+✅ **Data Engineering:** Apache Airflow, Apache Spark
+✅ **Cloud Services:** AWS, GCP
 ✅ **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
 
 ### **🌐 Web Development & Backend**  
-✅ **Frontend:** React.js, Redux, Tailwind CSS, Streamlit
-✅ **Backend:** Node.js, Express.js, Flask, Django   
+✅ **Frontend:** React.js, Redux, Tailwind CSS, Streamlit, Gradio
+✅ **Backend:** Node.js, Express.js, Flask, FastAPI
 ✅ **Database:** MySQL, MongoDB, Firebase, PostgreSQL  
 ✅ **API Development:** RESTful APIs, Postman  
 
@@ -78,9 +81,20 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 
 ## 🔥 Projects
 
-### **📌 Hate Speech Detection System (Multilingual)**  
-- Developed a multilingual hate speech classifier for Indian languages (Hindi, Marathi, Bengali, Tamil, English) capable of analyzing text and YouTube comments.  
-- **Tech Stack:** Python, Flask, Torch, Hugging Face Transformers, YouTube API, React  
+### 📌 Customer Service Chatbot (Multi-Agent AI)
+
+Developed a multi-agent AI chatbot to enhance e-commerce customer service, capable of handling order inquiries, FAQs, and personalized recommendations.
+**Agents:**
+- Guard Agent: Filters inappropriate/irrelevant queries.
+- Order Taking Agent: Uses chain-of-thought reasoning for guided ordering.
+- Details Agent (RAG System): Retrieves menu details, allergens, FAQs.
+- Recommendation Agent: Provides personalized product recommendations.
+- Classification Agent: Routes queries to the correct agent based on intent classification.
+- **Tech Stack:** FastAPI, LangChain, Llama3, PostgreSQL, FAISS, Docker, Gradio
+
+📌 Hate Speech Detection System (Multilingual)
+- Developed a multilingual hate speech classifier for Indian languages (Hindi, Marathi, Bengali, Tamil, English) capable of analyzing text and YouTube comments.
+- Tech Stack: Python, Flask, Torch, Hugging Face Transformers, YouTube API, React
 
 ### **📌 Mass Attendance Using Facial Recognition**  
 - Implemented a facial recognition system supporting real-time video streaming, face detection, and secure data handling.  
@@ -97,15 +111,6 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 ### **📌 Location-Based Restaurant Analysis**  
 - Conducted a data-driven analysis of restaurant performance and customer engagement trends.  
 - **Tech Stack:** Python, Pandas, Seaborn, Tableau, GeoPandas  
-
-### **📌 Astrowala**  
-- Developed the frontend for an e-learning platform offering astrology courses with authentication and dashboard functionalities.  
-- **Tech Stack:** React.js, Redux, Tailwind CSS, Node.js  
-
-### **📌 NoteDown**  
-- A MERN-based note-taking app supporting CRUD operations, user authentication, and rich text editing.  
-- **Tech Stack:** MongoDB, Express.js, React.js, Node.js  
-
 ---
 
 ## 📜 Certifications

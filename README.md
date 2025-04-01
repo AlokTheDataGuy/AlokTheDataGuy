@@ -92,7 +92,7 @@ Developed a multi-agent AI chatbot to enhance e-commerce customer service, capab
 - Classification Agent: Routes queries to the correct agent based on intent classification.
 - **Tech Stack:** FastAPI, LangChain, Llama3, PostgreSQL, FAISS, Docker, Gradio
 
-📌 Hate Speech Detection System (Multilingual)
+### **📌 Hate Speech Detection System (Multilingual)**
 - Developed a multilingual hate speech classifier for Indian languages (Hindi, Marathi, Bengali, Tamil, English) capable of analyzing text and YouTube comments.
 - Tech Stack: Python, Flask, Torch, Hugging Face Transformers, YouTube API, React
 

@@ -29,11 +29,6 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 ✅ Docker, Kubernetes, Vercel, Render, GitHub Actions  
 ✅ CI/CD, Cloud Deployment (AWS, Firebase)  
 
-### **🔤 Programming Languages**  
-✅ **Proficient:** Python, JavaScript  
-✅ **Familiar:** C++, Java, Dart  
-
-
 ---
 ## 💻 Tech Stack:
 ![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 

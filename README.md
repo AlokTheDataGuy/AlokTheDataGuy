@@ -114,9 +114,9 @@ Developed a multi-agent AI chatbot to enhance e-commerce customer service, capab
 ---
 
 ## 📜 Certifications
+- **Data Engineering Foundations Professional Certificate by Astronomer (Apr. 2025) - LinkedIn Learning**  
 - **Complete Data Science, Machine Learning, DL, NLP Bootcamp (Feb. 2025) - Udemy**  
-- **The Web Developer Bootcamp (Feb. 2023) - Udemy**  
-- **Database Management System (Oct. 2022) - NPTEL**  
+- **The Web Developer Bootcamp (Feb. 2023) - Udemy**
 
 ---
 

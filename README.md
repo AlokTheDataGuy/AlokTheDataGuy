@@ -74,43 +74,9 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 
 ---
 
-## 🔥 Projects
-
-### 📌 Customer Service Chatbot (Multi-Agent AI)
-
-Developed a multi-agent AI chatbot to enhance e-commerce customer service, capable of handling order inquiries, FAQs, and personalized recommendations.
-**Agents:**
-- Guard Agent: Filters inappropriate/irrelevant queries.
-- Order Taking Agent: Uses chain-of-thought reasoning for guided ordering.
-- Details Agent (RAG System): Retrieves menu details, allergens, FAQs.
-- Recommendation Agent: Provides personalized product recommendations.
-- Classification Agent: Routes queries to the correct agent based on intent classification.
-- **Tech Stack:** FastAPI, LangChain, Llama3, PostgreSQL, FAISS, Docker, Gradio
-
-### **📌 Hate Speech Detection System (Multilingual)**
-- Developed a multilingual hate speech classifier for Indian languages (Hindi, Marathi, Bengali, Tamil, English) capable of analyzing text and YouTube comments.
-- Tech Stack: Python, Flask, Torch, Hugging Face Transformers, YouTube API, React
-
-### **📌 Mass Attendance Using Facial Recognition**  
-- Implemented a facial recognition system supporting real-time video streaming, face detection, and secure data handling.  
-- **Tech Stack:** Python, OpenCV, TensorFlow, SQLite, React, Docker  
-
-### **📌 Restaurant Recommendation System**  
-- Built a recommendation engine suggesting restaurants based on user preferences, location, and interactions.  
-- **Tech Stack:** Python, Flask, Scikit-Learn, Pandas, React.js, MongoDB  
-
-### **📌 Restaurant Rating Prediction**  
-- Developed a machine learning model to predict restaurant ratings using customer reviews, location, and service quality.  
-- **Tech Stack:** Python, TensorFlow, Scikit-Learn, Pandas, Matplotlib, Flask  
-
-### **📌 Location-Based Restaurant Analysis**  
-- Conducted a data-driven analysis of restaurant performance and customer engagement trends.  
-- **Tech Stack:** Python, Pandas, Seaborn, Tableau, GeoPandas  
----
-
 ## 📜 Certifications
+- **Complete Data Science, Machine Learning, DL, NLP Bootcamp (Feb. 2025) - Udemy**
 - **Data Engineering Foundations Professional Certificate by Astronomer (Apr. 2025) - LinkedIn Learning**  
-- **Complete Data Science, Machine Learning, DL, NLP Bootcamp (Feb. 2025) - Udemy**  
 - **The Web Developer Bootcamp (Feb. 2023) - Udemy**
 
 ---

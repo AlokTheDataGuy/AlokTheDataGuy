@@ -15,8 +15,9 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 ✅ **ML/DL:** Scikit-learn, TensorFlow, Keras, PyTorch  
 ✅ **NLP:** Hugging Face Transformers, NLTK, SpaCy  
 ✅ **Computer Vision:** OpenCV, YOLO, Mediapipe, FaceNet, ResNet
-✅ **Data Engineering:** Apache Airflow, Apache Spark
-✅ **Cloud Services:** AWS, GCP
+✅ **Data Engineering:** Apache Airflow
+✅ **MLOps:** MLFlow, Docker, Kubernetes 
+✅ **Cloud Services:** AWS
 ✅ **Data Visualization:** Matplotlib, Seaborn, Power BI, Tableau  
 
 ### **🌐 Web Development & Backend**  

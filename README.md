@@ -73,6 +73,10 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 **Institute of AI, Dev Sanskriti Vishwavidyalaya**  
 - Contributed to machine learning model research and development, specializing in **Natural Language Processing (NLP)** and **Web Development**.
 
+### **Data Science Intern (Feb 2025 - Apr 2025)**  
+**NullClass Edutech Pvt. Ltd**  
+- Worked on multiple AI-based projects, including chatbot development, sentiment analysis, domain-expert, multi-modal and multilingual support.
+
 ---
 
 ## 📜 Certifications

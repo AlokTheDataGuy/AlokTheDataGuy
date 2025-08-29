@@ -88,12 +88,7 @@ Hi, I'm **Alok Deep**, an MCA Data Science student passionate about **Machine Le
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ai-with-alok-deep)  
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AlokTheDataGuy)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=netlify&logoColor=white)](https://lazylad99.netlify.app/)  
-[![X (Twitter)](https://img.shields.io/badge/X-%23121011.svg?logo=twitter&logoColor=white)](https://twitter.com/lazy_lad99)  
-[![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Big_Forever7919)  
-[![Kaggle](https://img.shields.io/badge/Kaggle-%23006BC1.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/thedataguy)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ai-with-alok-deep)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AlokTheDataGuy)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=netlify&logoColor=white)](https://lazylad99.netlify.app/)  [![X (Twitter)](https://img.shields.io/badge/X-%23121011.svg?logo=twitter&logoColor=white)](https://twitter.com/lazy_lad99)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Big_Forever7919)  [![Kaggle](https://img.shields.io/badge/Kaggle-%23006BC1.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/thedataguy)
 
 
 

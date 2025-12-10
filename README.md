@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hi, I'm **Alok Deep**, an MCA Data Science student passionate about ***Data Analysis, Machine Learning, and Business Intelligence**. I love transforming raw data into meaningful insights and building end-to-end analytical solutions using **Python, SQL, Power BI, and ML models**
+Hi, I'm **Alok Deep**, a MCA Data Science student passionate about ***Data Analysis, Machine Learning, and Business Intelligence**. I love transforming raw data into meaningful insights and building end-to-end analytical solutions using **Python, SQL, Power BI, and ML models**
 
 # 🚀 Skills & Expertise
 

@@ -1,42 +1,59 @@
 # 💫 About Me:
-Hi, I'm **Alok Deep**, a MCA Data Science student passionate about ***Data Analysis, Machine Learning, and Business Intelligence**. I love transforming raw data into meaningful insights and building end-to-end analytical solutions using **Python, SQL, Power BI, and ML models**
+Hi, I'm **Alok Deep**, an MCA Data Science postgraduate, passionate about ***Artificial Intelligence, Machine Learning, Data Science and Generative AI systems***. I focus on building **end-to-end AI applications**, including LLM-powered systems, Retrieval-Augmented Generation (RAG), and intelligent data-driven solutions using **Python, SQL, and modern AI frameworks**.
+
+---
 
 # 🚀 Skills & Expertise
 
-## 📊 **Data Analytics & Data Science**
+## 🤖 **Artificial Intelligence & Machine Learning**
+
+* Generative AI (LLMs, RAG, Prompt Engineering, Multi-modal AI)
+* NLP: Transformers, BERT, Text Classification, Sentiment Analysis
+* Retrieval Systems: Vector Databases (FAISS, ChromaDB), Semantic Search
+* Time-Series Forecasting, Anomaly Detection
+* Recommendation Systems, Clustering, Segmentation
+* Model Evaluation, Feature Engineering, Optimization
+
+---
+
+## 🧠 **Machine Learning & Data Science**
 
 * Exploratory Data Analysis (EDA), Statistical Analysis, A/B Testing
-* Data Cleaning, Feature Engineering, Outlier Detection
 * Predictive Modeling (Regression, Classification, Time Series)
-* Clustering, Segmentation, Market Basket Analysis
-* Text Analytics (NLP), Sentiment Analysis
-* Experiment design, business insights & reporting
+* Data Cleaning, Feature Engineering, Outlier Detection
+* Experiment design and insight generation
 
-## 🤖 **Machine Learning**
+---
 
-* Scikit-learn workflows (train/test split, model evaluation, pipelines)
-* Forecasting (ARIMA, Prophet), Anomaly Detection
-* Recommendation Systems
-* NLP: TF-IDF, Transformers, BERT-based models
+## ⚙️ **AI Systems & Data Engineering**
+
+* End-to-end AI system design (RAG pipelines, LLM integration)
+* ETL Pipelines, Data Processing, Workflow automation
+* API-based ML deployment (FastAPI, Flask)
+* Handling structured + unstructured data systems
+
+---
 
 ## 🛠️ **Tools & Technologies**
 
-* **Languages:** Python, SQL
-* **ML/DL:** Scikit-learn, TensorFlow, PyTorch, Hugging Face
-* **Analytics & BI:** Power BI (DAX), Tableau, Excel (Pivot Tables, Power Query)
-* **Data Engineering:** Airflow, Docker, ETL Pipelines
-* **Databases:** MySQL, PostgreSQL, MongoDB
-
-## 🌐 **Web & Backend (Supportive Skills)**
-
-*(Useful for dashboards, ML app deployment, automation)*
-
-* Frontend: React, Tailwind
-* Backend: Flask, FastAPI, Node.js
-* Deployment: Vercel, Render, Docker
-
+* **Languages:** Python, SQL  
+* **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Hugging Face  
+* **LLM Stack:** LangChain, LangGraph, Ollama, Vector DBs  
+* **Data Engineering:** Airflow, Docker  
+* **Databases:** MySQL, PostgreSQL, MongoDB  
 
 ---
+
+## 🌐 **Web & Backend (AI Application Development)**
+
+*(Used for building and deploying AI-powered applications)*
+
+* Frontend: React, Tailwind  
+* Backend: FastAPI, Flask, Node.js  
+* Deployment: Vercel, Render, Docker  
+
+---
+
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
@@ -72,6 +89,8 @@ Hi, I'm **Alok Deep**, a MCA Data Science student passionate about ***Data Analy
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) 
 
+---
+
 ## 📜 Certifications
 - **SQL (Advanced) Certification – HackerRank (2025)**
 - **Complete Data Science, Machine Learning, DL, NLP Bootcamp (Feb. 2025) - Udemy**
@@ -82,8 +101,6 @@ Hi, I'm **Alok Deep**, a MCA Data Science student passionate about ***Data Analy
 
 ## 🌐 Connect with Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/ai-with-alok-deep)  [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?logo=github&logoColor=white)](https://github.com/AlokTheDataGuy)  [![Portfolio](https://img.shields.io/badge/Portfolio-%23121011.svg?logo=netlify&logoColor=white)](https://alok-the-data-guy.vercel.app/)  [![X (Twitter)](https://img.shields.io/badge/X-%23121011.svg?logo=twitter&logoColor=white)](https://twitter.com/lazy_lad99)  [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=reddit&logoColor=white)](https://www.reddit.com/user/Big_Forever7919)  [![Kaggle](https://img.shields.io/badge/Kaggle-%23006BC1.svg?logo=kaggle&logoColor=white)](https://www.kaggle.com/thedataguy)
+[LinkedIn](https://linkedin.com/in/ai-with-alok-deep) | [GitHub](https://github.com/AlokTheDataGuy) | [Portfolio](https://alok-the-data-guy.vercel.app/)  
 
-
-🚀 Always open to learning and collaborating on impactful projects! Feel free to connect! ✨
-
+🚀 Always open to building impactful AI systems and collaborating on real-world projects!

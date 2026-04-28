@@ -92,6 +92,8 @@ Hi, I'm **Alok Deep**, an MCA Data Science postgraduate, passionate about ***Art
 ---
 
 ## 📜 Certifications
+- **Product Analytics — Mixpanel (2026)** 
+- **Alteryx Designer Core Certification (2026)**
 - **SQL (Advanced) Certification – HackerRank (2025)**
 - **Complete Data Science, Machine Learning, DL, NLP Bootcamp (Feb. 2025) - Udemy**
 - **Data Engineering Foundations Professional Certificate by Astronomer (Apr. 2025) - LinkedIn Learning**  

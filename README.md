@@ -3,7 +3,9 @@ Hi, I'm **Alok Deep**, an MCA Data Science postgraduate and a **Full-Stack Devel
 
 ---
 
-# 🌐 Full-Stack Web Development
+# 🚀 Skills & Expertise
+
+## 🌐 Full-Stack Web Development
 
 I build complete, production-ready web applications — designing the UI, wiring up the backend, and deploying live.
 
@@ -14,29 +16,6 @@ I build complete, production-ready web applications — designing the UI, wiring
 * **Focus:** Responsive design, cross-browser consistency, performance optimization, clean and maintainable code, SEO
 
 ---
-
-# 💼 Freelance Projects
-
-End-to-end websites I designed, built, and shipped for real wellness brands — each fully responsive, multi-page, and production-deployed.
-
-### 🧘 [SÕMYOGA — Yoga & Wellness Studio](https://somyoga.in)
-A full-stack studio website built with **Next.js + Tailwind CSS**.
-* Multi-page, fully responsive design with services, membership, and gallery sections
-* Product **store** with WhatsApp-based ordering flow
-* Membership/enquiry system with an **admin dashboard** for managing leads
-* Google Reviews integration and multi-location support
-* SEO-optimized and deployed to production
-
-### 🌿 [Tratak Yoga & Wellness Center](https://tratakyogawellness.in)
-A full-stack wellness platform built with **Next.js + Tailwind CSS**.
-* Rich multi-page architecture — Services, Courses, Healing, Membership, Products, Gallery
-* Booking/contact flow and a secure **admin login**
-* Responsive layouts with optimized images and strong on-page SEO
-* Product section and content-driven pages for 15+ health conditions
-
----
-
-# 🚀 Skills & Expertise
 
 ## 🤖 **Artificial Intelligence & Machine Learning**
 
@@ -117,6 +96,26 @@ A full-stack wellness platform built with **Next.js + Tailwind CSS**.
 ![Render](https://img.shields.io/badge/Render-%2346E3B7.svg?style=for-the-badge&logo=render&logoColor=white) 
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=canva&logoColor=white) 
 
+---
+
+# 💼 Freelance Projects
+
+End-to-end websites I designed, built, and shipped for real wellness brands — each fully responsive, multi-page, and production-deployed.
+
+### 🌿 [Tratak Yoga & Wellness Center](https://tratakyogawellness.in)
+A full-stack wellness platform built with **Next.js + Tailwind CSS**.
+* Rich multi-page architecture — Services, Courses, Healing, Membership, Products, Gallery
+* Booking/contact flow and a secure **admin login**
+* Responsive layouts with optimized images and strong on-page SEO
+* Product section and content-driven pages for 15+ health conditions
+
+### 🧘 [SÕMYOGA — Yoga & Wellness Studio](https://somyoga.in)
+A full-stack studio website built with **Next.js + Tailwind CSS**.
+* Multi-page, fully responsive design with services, membership, and gallery sections
+* Product **store** with WhatsApp-based ordering flow
+* Membership/enquiry system with an **admin dashboard** for managing leads
+* Google Reviews integration and multi-location support
+* SEO-optimized and deployed to production
 ---
 
 ## 📜 Certifications

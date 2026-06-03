@@ -1,5 +1,38 @@
 # 💫 About Me:
-Hi, I'm **Alok Deep**, an MCA Data Science postgraduate, passionate about ***Artificial Intelligence, Machine Learning, Data Science and Generative AI systems***. I focus on building **end-to-end AI applications**, including LLM-powered systems, Retrieval-Augmented Generation (RAG), and intelligent data-driven solutions using **Python, SQL, and modern AI frameworks**.
+Hi, I'm **Alok Deep**, an MCA Data Science postgraduate and a **Full-Stack Developer & AI Engineer**. I design and ship **end-to-end products** — from responsive, production-grade web applications to **LLM-powered systems**, Retrieval-Augmented Generation (RAG), and intelligent data-driven solutions. I work across the stack with **React/Next.js, Node.js, Python, and SQL**, turning ideas into live, usable products.
+
+---
+
+# 🌐 Full-Stack Web Development
+
+I build complete, production-ready web applications — designing the UI, wiring up the backend, and deploying live.
+
+* **Frontend:** React, Next.js, Tailwind CSS, JavaScript, responsive & component-driven UI
+* **Backend:** Node.js, Express, FastAPI, Flask — REST APIs & service integration
+* **Databases:** MySQL, PostgreSQL, MongoDB
+* **Deployment & Tooling:** Vercel, Render, Docker, Git
+* **Focus:** Responsive design, cross-browser consistency, performance optimization, clean and maintainable code, SEO
+
+---
+
+# 💼 Freelance Projects
+
+End-to-end websites I designed, built, and shipped for real wellness brands — each fully responsive, multi-page, and production-deployed.
+
+### 🧘 [SÕMYOGA — Yoga & Wellness Studio](https://somyoga.in)
+A full-stack studio website built with **Next.js + Tailwind CSS**.
+* Multi-page, fully responsive design with services, membership, and gallery sections
+* Product **store** with WhatsApp-based ordering flow
+* Membership/enquiry system with an **admin dashboard** for managing leads
+* Google Reviews integration and multi-location support
+* SEO-optimized and deployed to production
+
+### 🌿 [Tratak Yoga & Wellness Center](https://tratakyogawellness.in)
+A full-stack wellness platform built with **Next.js + Tailwind CSS**.
+* Rich multi-page architecture — Services, Courses, Healing, Membership, Products, Gallery
+* Booking/contact flow and a secure **admin login**
+* Responsive layouts with optimized images and strong on-page SEO
+* Product section and content-driven pages for 15+ health conditions
 
 ---
 
@@ -36,29 +69,32 @@ Hi, I'm **Alok Deep**, an MCA Data Science postgraduate, passionate about ***Art
 
 ## 🛠️ **Tools & Technologies**
 
-* **Languages:** Python, SQL  
-* **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Hugging Face  
-* **LLM Stack:** LangChain, LangGraph, Ollama, Vector DBs  
-* **Data Engineering:** Airflow, Docker  
-* **Databases:** MySQL, PostgreSQL, MongoDB  
-
----
-
-## 🌐 **Web & Backend (AI Application Development)**
-
-*(Used for building and deploying AI-powered applications)*
-
-* Frontend: React, Tailwind  
-* Backend: FastAPI, Flask, Node.js  
-* Deployment: Vercel, Render, Docker  
+* **Languages:** Python, SQL, JavaScript
+* **Web:** React, Next.js, Tailwind CSS, Node.js, Express
+* **AI/ML:** Scikit-learn, TensorFlow, PyTorch, Hugging Face
+* **LLM Stack:** LangChain, LangGraph, Ollama, Vector DBs
+* **Data Engineering:** Airflow, Docker
+* **Databases:** MySQL, PostgreSQL, MongoDB
+* **Deployment:** Vercel, Render, Docker
 
 ---
 
 ## 💻 Tech Stack:
 ![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white) 
+![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
+![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white) 
+![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
+![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
+![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) 
+![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white) 
+![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
+![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
+![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) 
 ![NumPy](https://img.shields.io/badge/NumPy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Pandas](https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) 
-![MySQL](https://img.shields.io/badge/MySQL-%234479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![Excel](https://img.shields.io/badge/Excel-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
 ![Tableau](https://img.shields.io/badge/Tableau-E97627?style=for-the-badge&logo=tableau&logoColor=white)
@@ -66,14 +102,6 @@ Hi, I'm **Alok Deep**, an MCA Data Science postgraduate, passionate about ***Art
 ![Power Pivot](https://img.shields.io/badge/Power%20Pivot-217346?style=for-the-badge&logo=microsoft-excel&logoColor=white)
 ![LaTeX](https://img.shields.io/badge/LaTeX-%23008080.svg?style=for-the-badge&logo=latex&logoColor=white) 
 ![Git](https://img.shields.io/badge/Git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) 
-![React](https://img.shields.io/badge/React-%2361DAFB.svg?style=for-the-badge&logo=react&logoColor=white) 
-![Node.js](https://img.shields.io/badge/Node.js-%236DA55F.svg?style=for-the-badge&logo=node.js&logoColor=white) 
-![Express.js](https://img.shields.io/badge/Express.js-%23000000.svg?style=for-the-badge&logo=express&logoColor=white) 
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) 
-![Tailwind CSS](https://img.shields.io/badge/TailwindCSS-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) 
-![CSS3](https://img.shields.io/badge/CSS3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) 
-![JavaScript](https://img.shields.io/badge/JavaScript-%23F7DF1E.svg?style=for-the-badge&logo=javascript&logoColor=black) 
-![Flask](https://img.shields.io/badge/Flask-%23000000.svg?style=for-the-badge&logo=flask&logoColor=white) 
 ![NLP](https://img.shields.io/badge/NLP-%23FF6F00.svg?style=for-the-badge&logo=nlp&logoColor=white) 
 ![Computer Vision](https://img.shields.io/badge/Computer%20Vision-%234285F4.svg?style=for-the-badge&logo=opencv&logoColor=white) 
 ![Scikit-learn](https://img.shields.io/badge/Scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) 
@@ -105,4 +133,4 @@ Hi, I'm **Alok Deep**, an MCA Data Science postgraduate, passionate about ***Art
 
 [LinkedIn](https://linkedin.com/in/ai-with-alok-deep) | [GitHub](https://github.com/AlokTheDataGuy) | [Portfolio](https://alok-the-data-guy.vercel.app/)  
 
-🚀 Always open to building impactful AI systems and collaborating on real-world projects!
+🚀 Always open to building impactful AI systems and full-stack products, and collaborating on real-world projects!
